@@ -12,13 +12,13 @@
   },
   "autoload": {
     "psr-4": {
-      "thienkimlove\\NovaMoneyField\\": "src/"
+      "Thienkimlove\\NovaMoneyField\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "thienkimlove\\NovaMoneyField\\FieldServiceProvider"
+        "Thienkimlove\\NovaMoneyField\\FieldServiceProvider"
       ]
     }
   },
